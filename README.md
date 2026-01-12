@@ -112,7 +112,7 @@ The primary objectives of this analysis are to:
 ## 🚀 How to View the Project
 
 - 🌐 **Live Portfolio Website:**  
-  https://jasikav.github.io/superstore-business-analysis/
+  
 
 - 📘 **Analysis Notebook:**  
   Analysis performed using Jupyter Notebook (available locally)
