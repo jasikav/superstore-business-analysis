@@ -1,7 +1,7 @@
 # 📊 Superstore Business Analysis
 
 ## 🔗 Live Portfolio  
-👉 https://jasikav.github.io/superstore-business-analysis/
+
 
 ---
 
