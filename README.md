@@ -106,8 +106,9 @@ The primary objectives of this analysis are to:
 
 ---
 
-## 📁 Project Structure
----
+📁 Project Files
+- README.md – Project documentation
+- index.html – Live portfolio website (GitHub Pages)
 
 ## 🚀 How to View the Project
 
