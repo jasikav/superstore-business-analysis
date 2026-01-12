@@ -64,5 +64,5 @@ The dataset contains order-level retail transaction data including:
 ---
 
 ## Author
-**Jessica Verma**  
+**Jasika Verma**  
 MBA (Data Science) | Aspiring Business Analyst / Data Analyst
