@@ -107,3 +107,21 @@ The primary objectives of this analysis are to:
 ---
 
 ## 📁 Project Structure
+---
+
+## 🚀 How to View the Project
+
+- 🌐 **Live Portfolio Website:**  
+  https://jasikav.github.io/superstore-business-analysis/
+
+- 📘 **Analysis Notebook:**  
+  Analysis performed using Jupyter Notebook (available locally)
+
+---
+
+## 🙋‍♀️ Author
+
+**Jasika Verma**  
+Aspiring Business Analyst / Data Analyst  
+
+This project is part of my data analytics portfolio to demonstrate real-world business analysis skills.
