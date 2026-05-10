@@ -42,5 +42,7 @@ A retail company wanted to analyse sales performance across regions and product 
 ---
 
 ## Dashboard Preview
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3bfaa02a-961e-4855-af7c-214cb0f4902d" />
+
 
 
